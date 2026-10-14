@@ -1,0 +1,17 @@
+# secrets and local environment
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+
+# candidate kit material (not part of the submission)
+SDT_candidate_kit.zip
+PROBLEM_STATEMENT.docx
+openapi.yaml
+DATA_MODEL.md
+sample_data/
+sample_seed.py
